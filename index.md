@@ -12,3 +12,7 @@ var valor1 = 2;
 var valor2 = 3;
 var suma = valor1 + valor2;
 ```
+
+- [X] Funciona
+- [ ] No funciona
+- [ ] quizá funciona
